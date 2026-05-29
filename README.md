@@ -21,10 +21,12 @@ I'm currently focusing in studying more while creating new projects to apply the
 
 
 <h3>👩🏻‍💻 More about me</h3>
-<li>🐈 I love cats</li>
-<li>🪼 I really enjoy playing games :)</li>
-<li>🪻 My favorite animes are K-ON and Boku no Hero Academia. Also, i love Big Hero 6 movie!</li>
-<li>⭐ I love drawing</li>
-<li>🦁 The Chronicles of Narnia is my favorite series of book</li>
+<ul>
+  <li>🐈 I love cats</li>
+  <li>🪼 I really enjoy playing games :)</li>
+  <li>🪻 My favorite animes are K-ON and Boku no Hero Academia. Also, i love Big Hero 6 movie!</li>
+  <li>⭐ I love drawing</li>
+  <li>🦁 The Chronicles of Narnia is my favorite series of book</li>
+</ul>
 
 
